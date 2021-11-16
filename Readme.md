@@ -3,7 +3,7 @@
     <summary>⏬<b>CLICK ME TO VIEW⏬</b></summary>
 
   
-<a href="https://bit.ly/3lC8I7t"><img src="deadshot.jpg" alt="google-font" border="0"></a>
+<a href="https://github.com/dinoexe1"><img src="deadshot.jpg" alt="google-font" border="0"></a>
   <a  src="deadshot.jpg" alt="grand-theft-auto-font" height="39" width="350" border="0"></a>
 
   # <u> SETUP <u>
